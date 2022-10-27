@@ -1,0 +1,11 @@
+repositories{
+  flatDir {
+    dirs 'libs'
+  }
+}
+dependencies {
+}
+android {
+    defaultConfig {
+    }
+}
